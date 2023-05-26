@@ -1,7 +1,11 @@
-### Hi there 👋
+## 👋 Hi there, Your Developer this side. 
+ 
+
+<img align="left" height="250" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" >
+
 
 <!--
-**KoodosDev/KoodosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DinalJivani/DinalJivani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
